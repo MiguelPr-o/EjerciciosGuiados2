@@ -21,6 +21,20 @@ Se tendría que verificar que la cabeza no sea null
 
 
 ## U2ACT2 - Lista Encantada Humana en Java
+<table>
+  <tr><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112037.png?raw=true" width="200px" height="200px"></tr>
+  <tr><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112048.png?raw=true" width="200px" height="200px"></tr>
+    <tr><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112055.png?raw=true" width="200px" height="200px"></tr>
+</table>
+
+### Cierre reflexivo
+¿Qué aprendiste sobre las referencias en una lista enlazada? 
+Son punteros que indican el siguiente nodo
+¿Qué pasa si se rompe un enlace?
+El puntero del nodo anterior al nodo que se eliminó, apuntaría al nodo después del nodo que se eliminó
+¿Cómo se relaciona esto con el código real en Java?
+Esto se relaciona con las estructuras de datos dinámicas en donde los nodos están conectados entre sí.
+
 
 ## U2ACT2 - Ejercicio de Pila con VisuAlgo
 
