@@ -60,6 +60,7 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
 ## U2ACT2 - Especificacion de la Pila
 
 ## Listas en Java
+<center>
 <table>
   <tr>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112037.png?raw=true" width="200px" height="200px"></td>
@@ -70,6 +71,7 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
       <img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112055.png?raw=true" width="200px" height="300px">
     </tr>
 </table>
+</center>
 
 
 ## U2ACT3 Práctica Manual y Algorítmica Lista
