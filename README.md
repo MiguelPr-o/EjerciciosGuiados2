@@ -81,10 +81,56 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
      <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214902.png?raw=true" width="200px" height="200px"></td>
          <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214911.png?raw=true" width="200px" height="200px"></td>
   </tr>  
+
+  <tr>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214927.png?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214934.png?raw=true" width="200px" height="200px"></td>
+     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20215033.png?raw=true" width="200px" height="200px"></td>
+         <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20215058.png?raw=true" width="200px" height="200px"></td>
+  </tr>  
+
+  <tr>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20215318.png?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20215407.png?raw=true" width="200px" height="200px"></td>
+     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20215446.png?raw=true" width="200px" height="200px"></td>
+         <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20220358.png?raw=true" width="200px" height="200px"></td>
+  </tr>  
+
+  
+  <tr>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20220514.png?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20220621.png?raw=true" width="200px" height="200px"></td>
+     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20220638.png?raw=true" width="200px" height="200px"></td>
+         <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20221317.png?raw=true" width="200px" height="200px"></td>
+  </tr>  
+
+  <tr>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20221404.png?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20221745.png?raw=true" width="200px" height="200px"></td>
+     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20222244.png?raw=true" width="200px" height="200px"></td>
+         <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20223107.png?raw=true" width="200px" height="200px"></td>
+  </tr>  
+
+ <tr>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20223132.png?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20223207.png?raw=true" width="200px" height="200px"></td>
+  </tr>    
+  
 </table>
+
 
 
 ## U2ACT3 Práctica Manual y Algorítmica Lista
 
-
+<table>
+  <tr>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT3%20Pr%C3%A1ctica%20Manual%20y%20Algor%C3%ADtmica%20Lista%20(capturas)/WhatsApp%20Image%202025-10-20%20at%2022.16.32%20(1).jpeg?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT3%20Pr%C3%A1ctica%20Manual%20y%20Algor%C3%ADtmica%20Lista%20(capturas)/WhatsApp%20Image%202025-10-20%20at%2022.16.32.jpeg?raw=true" width="200px" height="200px"></td>
+  </tr>
+    
+  <tr>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT3%20Pr%C3%A1ctica%20Manual%20y%20Algor%C3%ADtmica%20Lista%20(capturas)/WhatsApp%20Image%202025-10-20%20at%2022.16.31.jpeg?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT3%20Pr%C3%A1ctica%20Manual%20y%20Algor%C3%ADtmica%20Lista%20(capturas)/WhatsApp%20Image%202025-10-20%20at%2022.16.31%20(1).jpeg?raw=true" width="200px" height="200px"></td>
+    </tr>
+</table>
 
