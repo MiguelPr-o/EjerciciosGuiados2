@@ -31,7 +31,7 @@ Se tendría que verificar que la cabeza no sea null
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112048.png?raw=true" width="200px" height="200px"></td>
   </tr>
     <tr>
-      <img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112055.png?raw=true" width="200px" height="300px">
+      <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112055.png?raw=true" width="200px" height="300px"></td>
     </tr>
 </table>
 
@@ -122,15 +122,19 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
 
 ## U2ACT3 Práctica Manual y Algorítmica Lista
 
+### Actividad 1: Lista Simplemente Enlazada
+
 <table>
   <tr>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT3%20Pr%C3%A1ctica%20Manual%20y%20Algor%C3%ADtmica%20Lista%20(capturas)/WhatsApp%20Image%202025-10-20%20at%2022.16.32%20(1).jpeg?raw=true" width="200px" height="200px"></td>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT3%20Pr%C3%A1ctica%20Manual%20y%20Algor%C3%ADtmica%20Lista%20(capturas)/WhatsApp%20Image%202025-10-20%20at%2022.16.32.jpeg?raw=true" width="200px" height="200px"></td>
   </tr>
-    
+
+### Actividad 2: Lista Doblemente Enlazada
   <tr>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT3%20Pr%C3%A1ctica%20Manual%20y%20Algor%C3%ADtmica%20Lista%20(capturas)/WhatsApp%20Image%202025-10-20%20at%2022.16.31.jpeg?raw=true" width="200px" height="200px"></td>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT3%20Pr%C3%A1ctica%20Manual%20y%20Algor%C3%ADtmica%20Lista%20(capturas)/WhatsApp%20Image%202025-10-20%20at%2022.16.31%20(1).jpeg?raw=true" width="200px" height="200px"></td>
     </tr>
+    <tr><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT3%20Pr%C3%A1ctica%20Manual%20y%20Algor%C3%ADtmica%20Lista%20(capturas)/WhatsApp%20Image%202025-10-19%20at%2011.55.24.jpeg?raw=true" width="200px" height="200px"></tr>
 </table>
 
