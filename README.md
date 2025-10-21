@@ -60,18 +60,28 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
 ## U2ACT2 - Especificacion de la Pila
 
 ## Listas en Java
-<center>
 <table>
   <tr>
-    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112037.png?raw=true" width="200px" height="200px"></td>
-    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112048.png?raw=true" width="200px" height="200px"></td>
-     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112048.png?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20210924.png?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20210935.png?raw=true" width="200px" height="200px"></td>
+     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20211010.png?raw=true" width="200px" height="200px"></td>
+         <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20211128.png?raw=true" width="200px" height="200px"></td>
   </tr>
-    <tr>
-      <img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/U2ACT2%20-%20ListaEncantadaHumanaEnJava/Captura%20de%20pantalla%202025-10-19%20112055.png?raw=true" width="200px" height="300px">
-    </tr>
+  
+  <tr>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20213856.png?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20213905.png?raw=true" width="200px" height="200px"></td>
+     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214826.png?raw=true" width="200px" height="200px"></td>
+         <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214835.png?raw=true" width="200px" height="200px"></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214844.png?raw=true" width="200px" height="200px"></td>
+    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214852.png?raw=true" width="200px" height="200px"></td>
+     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214902.png?raw=true" width="200px" height="200px"></td>
+         <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214911.png?raw=true" width="200px" height="200px"></td>
+  </tr>  
 </table>
-</center>
 
 
 ## U2ACT3 Práctica Manual y Algorítmica Lista
