@@ -154,8 +154,11 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/MiguelPr-o/EjerciciosGuiados2/tree/main/Colas">Código</a>
+        <a href="https://github.com/MiguelPr-o/EjerciciosGuiados2/tree/main/Colas">Colas</a>
       </td>
     </tr>
   </tbody>
 </table>
+
+##Video 
+Link: https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/videoPilas.mp4
