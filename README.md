@@ -140,7 +140,6 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
         <a href="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/Implementaci%C3%B3n%20de%20cola%20-%20VisuAlgo.pdf">Colas</a>
       </td>
     </tr>
-    
   </tbody>
 </table>
 
@@ -148,3 +147,18 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
 Link: https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/videoPilas.mp4
 
 ## Actividad - Ordenamiento Burbuja
+<h2>📂 Archivos del código</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Actividad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/Ordenamiento%20Burbuja.pdf">Colas</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
