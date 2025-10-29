@@ -117,13 +117,16 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
     </tr>
 </table>
 
-### Implementacion de pilas en Java
+## Actividad - Implementacion de pilas en Java
 
 <h2>📂 Archivos del código</h2>
 <table>
   <thead>
     <tr>
       <th>Código</th>
+    </tr>
+        <tr>
+      <th>Evidencias Curso</th>
     </tr>
   </thead>
   <tbody>
@@ -132,8 +135,16 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
         <a href="https://github.com/MiguelPr-o/EjerciciosGuiados2/tree/main/Colas">Colas</a>
       </td>
     </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/Implementaci%C3%B3n%20de%20cola%20-%20VisuAlgo.pdf">Colas</a>
+      </td>
+    </tr>
+    
   </tbody>
 </table>
 
 ##Video 
 Link: https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/videoPilas.mp4
+
+## Actividad - Ordenamiento Burbuja
