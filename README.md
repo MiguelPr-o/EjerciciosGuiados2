@@ -88,7 +88,7 @@ Este repositorio recopila las actividades prácticas desarrolladas durante la **
   </tr>
 </table>
 
-*(Galería completa disponible en el repositorio.)*
+*(Galería completa disponible en el repositorio.) https://github.com/MiguelPr-o/EjerciciosGuiados2/tree/main/nearpod%20-%20capturas*
 
 ---
 
@@ -139,6 +139,5 @@ Este repositorio recopila las actividades prácticas desarrolladas durante la **
 
 ---
 
-📅 **Última actualización:** Octubre 2025
-👨‍💻 **Autor:** Miguel Pr-o
+👨‍💻 **Autor:** Miguel Angel Hernández Godínez
 🎓 **Materia:** Estructuras de Datos
