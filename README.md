@@ -88,7 +88,7 @@ Este repositorio recopila las actividades prácticas desarrolladas durante la **
   </tr>
 </table>
 
-*(Galería completa disponible en el repositorio.) https://github.com/MiguelPr-o/EjerciciosGuiados2/tree/main/nearpod%20-%20capturas*
+[Galería completa](https://github.com/MiguelPr-o/EjerciciosGuiados2/tree/main/nearpod%20-%20capturas)
 
 ---
 
