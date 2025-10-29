@@ -71,16 +71,9 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
   <tr>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20213856.png?raw=true" width="200px" height="200px"></td>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20213905.png?raw=true" width="200px" height="200px"></td>
-     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214826.png?raw=true" width="200px" height="200px"></td>
-         <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214835.png?raw=true" width="200px" height="200px"></td>
-  </tr>
-
-  <tr>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214844.png?raw=true" width="200px" height="200px"></td>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214852.png?raw=true" width="200px" height="200px"></td>
-     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214902.png?raw=true" width="200px" height="200px"></td>
-         <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214911.png?raw=true" width="200px" height="200px"></td>
-  </tr>  
+  </tr>
 
   <tr>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20214927.png?raw=true" width="200px" height="200px"></td>
@@ -104,12 +97,6 @@ Esto se relaciona con las estructuras de datos dinámicas en donde los nodos est
          <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20221317.png?raw=true" width="200px" height="200px"></td>
   </tr>  
 
-  <tr>
-    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20221404.png?raw=true" width="200px" height="200px"></td>
-    <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20221745.png?raw=true" width="200px" height="200px"></td>
-     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20222244.png?raw=true" width="200px" height="200px"></td>
-         <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20223107.png?raw=true" width="200px" height="200px"></td>
-  </tr>  
 
  <tr>
     <td><img src="https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/nearpod%20-%20capturas/Captura%20de%20pantalla%202025-10-08%20223132.png?raw=true" width="200px" height="200px"></td>
