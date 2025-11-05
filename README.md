@@ -139,5 +139,13 @@ Este repositorio recopila las actividades prácticas desarrolladas durante la **
 
 ---
 
+## 🧮 Actividad - Tipos de ordenamiento
+
+| Tipo         | Enlace                                                                                                            |
+| ------------ | ----------------------------------------------------------------------------------------------------------------- |
+| 📄 Documento | [Tipos de ordenamiento .pdf](https://github.com/MiguelPr-o/EjerciciosGuiados2/blob/main/Tipos%20de%20ordenamiento.pdf) |
+
+---
+
 👨‍💻 **Autor:** Miguel Angel Hernández Godínez
 🎓 **Materia:** Estructuras de Datos
